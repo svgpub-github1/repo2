@@ -1,0 +1,1 @@
+Initialized by SvgPublish Visio extension
